@@ -3,22 +3,24 @@ body{
 
 }
 .imran h1{
-    font-size: 50px;
+    font-size: 40px;
     text-transform: uppercase;
 }
 .imran h2{
-    font-size: 50px;
+    font-size: 40px;
     text-transform: capitalize;
 }
 .imran h3{
-    font-size:30px;
+    font-size:20px;
     text-transform: capitalize;
 }
 .imran1{
     color: orange;
 }
-section{
+  
+.flexible-container{
     display: flex;
+    
 }
 .imran3{
 text-decoration:none;
@@ -41,7 +43,22 @@ padding: 5%;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.imran11{
+    box-shadow:  10px 10px 40px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 20px;
 
+}
+.imran12{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+footer{
+    text-align: center;
+}
 
 
 
